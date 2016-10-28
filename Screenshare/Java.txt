@@ -1,0 +1,3 @@
+Modify the local.properties file:
+sdk.dir=/home/monet/development/android-sdk-linux_x86
+sdk.key=/home/monet/development/Screenshare
